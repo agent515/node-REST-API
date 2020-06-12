@@ -17,9 +17,9 @@ The dependencies are:
 
 ## To play with the api
 
-`<p>git clone https://github.com/agent515/node-REST-API</p>`
-`<p>npm install</p>`
-`<p>npm start</p>`
+`git clone https://github.com/agent515/node-REST-API`<br>
+`npm install`<br>
+`npm start`<br>
 
 Following services are available using this API:
   ### Product:
