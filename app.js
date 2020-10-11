@@ -9,7 +9,6 @@ const orderRoutes = require("./api/routes/orders");
 const userRoutes = require("./api/routes/users");
 
 mongoose.connect('mongodb+srv://agent_515:'+ process.env.MONGO_ATLAS_PW +'@nodejs-rest-api-vgn72.mongodb.net/test?retryWrites=true&w=majority', {
-    useMongoClient : true,
     useNewUrlParser : true,
     useUnifiedTopology : true
 });
